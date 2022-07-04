@@ -1,2 +1,2 @@
 # MINETUBE02-Landia
-A site for me and my creations! :)
+A site to share my creations with everyone! :)
